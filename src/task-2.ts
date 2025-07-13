@@ -12,4 +12,3 @@ const product: User = {
 
 console.log(`Product: ${JSON.stringify(product)}`);
 
-console.log(`Product: ${JSON.stringify(product)}`);
