@@ -15,3 +15,4 @@ const products: User[] = [
 console.log(`Usernames: ${JSON.stringify(usernames)}`);
 console.log(`Ratings: ${JSON.stringify(ratings)}`);
 console.log(`Products: ${JSON.stringify(products)}`);
+
